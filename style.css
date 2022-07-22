@@ -431,9 +431,6 @@ footer{
 
 .highlight:not(:last-child){
     margin-bottom: 24px;
+}
 
-}
-.header__container{
-    padding: 24px;
-}
 }
