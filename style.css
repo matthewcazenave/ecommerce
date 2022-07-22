@@ -80,6 +80,10 @@ h1 {
     color: #7342d6;
     margin-bottom: 24px;
     text-align: center;
+    height: 100%;
+    width: 100%;
+    max-width: 75vw;
+    max-height: 50vh;
 }
 
 h2 {
@@ -177,7 +181,7 @@ h2 {
     color: white;
 }
 
-/* LANDONG */
+/* LANDING */
 
 #landing {
     background-color: rgba(115, 66, 214, 0.1);
@@ -429,5 +433,4 @@ footer{
     margin-bottom: 24px;
 
 }
-
 }
