@@ -192,7 +192,7 @@ header {
 }
 
 .header__container {
-    padding-top: 24px;
+    padding-top: 80px;
     width: 100%;
     max-width: 720px;
     margin: 0 auto;
@@ -432,5 +432,8 @@ footer{
 .highlight:not(:last-child){
     margin-bottom: 24px;
 
+}
+.header__container{
+    padding: 24px;
 }
 }
